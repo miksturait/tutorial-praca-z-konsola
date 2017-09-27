@@ -14,7 +14,7 @@ sudo apt-get install terminator
 
 ## Oh-my-zsh
 
-Jest to menadżer paczek zsh, który dostarcza nam stylowanie składni, aliasy czy wsparcie dla Git
+Jest to framework, zawierający wiele udogodnień dla naszej konsoli
 
 ![Screen](https://cloud.githubusercontent.com/assets/2618447/6316862/70f58fb6-ba03-11e4-82c9-c083bf9a6574.png)
 
