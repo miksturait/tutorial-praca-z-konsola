@@ -13,8 +13,8 @@ sudo apt-get install terminator
 
 
 ## Oh-my-zsh
-
-Jest to framework, zawierający wiele udogodnień dla naszej konsoli
+Zamiast używania standardowej konsoli polecam od razu zainstalować framework - Oh-my-zsh, który będzie zarządzał nam
+konfiguracją oraz ułatwi instalacje pluginów. Dodatkowo posiada wiele zainstalowanych udogodnień jak funkcje i aliasy Git'a.
 
 ![Screen](https://cloud.githubusercontent.com/assets/2618447/6316862/70f58fb6-ba03-11e4-82c9-c083bf9a6574.png)
 
