@@ -8,6 +8,12 @@ Krótkie wprowadzenie do pracy z konsolą systemową, dzięki czemu pisanie apli
 - Instalowanie pluginów
 - Poruszanie się w strukturze plików
 
+
+# Kursy on-line
+[Kurs codeacademy](https://www.codecademy.com/learn/learn-the-command-line)
+[Kurs Udacity](https://www.udacity.com/course/linux-command-line-basics--ud595)
+
+
 # Setup
 - [Linux](linux/setup_01.md)
 - [Windows](windows/setup_01.md)
