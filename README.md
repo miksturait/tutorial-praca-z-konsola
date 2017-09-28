@@ -10,8 +10,8 @@ Krótkie wprowadzenie do pracy z konsolą systemową, dzięki czemu pisanie apli
 
 
 # Kursy on-line
-[Kurs codeacademy](https://www.codecademy.com/learn/learn-the-command-line)
-[Kurs Udacity](https://www.udacity.com/course/linux-command-line-basics--ud595)
+- [Kurs codeacademy](https://www.codecademy.com/learn/learn-the-command-line)
+- [Kurs Udacity](https://www.udacity.com/course/linux-command-line-basics--ud595)
 
 
 # Setup
@@ -21,6 +21,8 @@ Krótkie wprowadzenie do pracy z konsolą systemową, dzięki czemu pisanie apli
 
 
 # Podstawy
+
+- [Krótkie wprowadzenie](https://docs.google.com/presentation/d/19nAJR-yBQdplIxy5QpXmbE-S53h-Tbuf3FuQX2rPu2U/edit?usp=sharing)
 
 By sprawnie korzystać z konsoli musimy znajomić się z kilkoma podstawowymi komendami:
 
